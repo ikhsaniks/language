@@ -1,0 +1,84 @@
+{
+    "data": [
+
+        {
+            "id": "1",
+            "order": "1",
+            "title": {"en":"Share","id":"Saham"},
+	    "content" : {
+			"en":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+			"id":"Saham ialah surat berharga yang digunakan sebagai tanda penyertaan modal ke dalam perusahaan. Membeli saham berarti berhak atas kepemilikan perusahaan tersebut. 
+
+Dengan berinvestasi di pasar modal saham, pembeli akan mendapat keuntungan, seperti mendapat keuntungan dari selisih antara harga beli dan jual, disebut Capital Gain. Serta Dividen atau pembagian keuntungan dari perusahaan. 
+
+Namun, pasar saham memiliki risiko, seperti kerugian yang dihasilkan dari penjualan saham jika harganya lebih rendah dibandingkan harga beli, disebut Capital Loss. 
+
+"}
+        },
+	{
+            "id": "2",
+            "order": "2",
+            "title": {"en":"Obligation","id":"Obligasi"},
+	    "content" : {
+			"en":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+			"id":"Obligasi/surat utang ialah jenis investasi di mana investor meminjam dana kepada pihak ketiga (perusahaan/pemerintah) dengan jangka waktu dan nilai suku bunga tertentu.
+
+Berinvestasi dengan obligasi memiliki keuntungan yang diperoleh dari bunga, dimana semakin lama jangka waktunya akan semakin besar keuntungannya. Serta keuntungan dari selisih harga obligasi jual dan beli.
+
+Namun obligasi memiliki risiko, seperti penerbit obligasi mengalami gagal bayar maka investor tidak memperoleh keuntungan dan pokok utang. Obligasi pun rentan terhadap perubahan suku bunga, ekonomi, dan politik yang tidak stabil. Menjual obligasi sebelum jatuh tempo pada pasar sekunder menimbulkan kerugian sebab harga jual lebih rendah dari harga belinya.
+"}
+        },
+	{
+            "id": "3",
+            "order": "3",
+            "title": {"en":"Derivative","id":"Derivatif"},
+	    "content" : {
+			"en":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+			"id":"Derivatif ialah kontrak yang dilakukan oleh dua pihak/lebih melalui pialang/broker untuk melakukan transaksi aset sesuai dengan harga dan waktu yang telah ditentukan. 
+
+Derivatif yang telah terdaftar berupa saham, obligasi, indeks saham, indeks obligasi, mata uang, tingkat suku bunga, dan lainnya.   
+ 
+Investasi dalam bentuk derivatif akan mendapatkan keuntungan dari pergerakan naik dan turun harga. Ini berarti investor akan mendapatkan keuntungan jika selisih harga beli lebih rendah dari harga di pasaran. Sebaliknya kerugian akan terjadi jika harga pasaran lebih tinggi dibandingkan dengan harga beli.
+"}
+        },
+	{
+            "id": "4",
+            "order": "4",
+            "title": {"en":"etf","id":"etf"},
+            "content" : {
+			"en":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+			"id":"ETF merupakan produk yang menggabungkan reksa dana dan saham berbentuk kontrak investasi kolektif yang unit penyertaannya diperdagangkan di bursa efek. 
+
+Berinvestasi menggunakan ETF memiliki keuntungan, seperti bisa diperjualbelikan dii bursa efek sehingga memudahkan investor melihat pergerakan investasi. transaksi pembelian melibatkan tiga pihak, yaitu lembaga keuangan, investor, dan manajer investasi. Serta dapat diperdagangkan setiap saat tanpa harus menunggu penutupan sesi perdagangan dibursa efek.
+
+Namun, ETF memiliki risiko, seperti rawannya terhadap fluktuasi harga saham, karena faktor suku bunga, nilai tukar, stabilitas politik. Investor tidak hanya dapat memilih saham yang berada dalam indeks ETF. 
+"}
+        },
+	{
+            "id": "5",
+            "order": "5",
+            "title": {"en":"Syariah","id":"Syariah"},
+            "content" : {
+			"en":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+			"id":"Pasar modal syariah tidak berbeda dengan pasar modal konvensional. Namun terdapat karakteristik khusus yang diatur oleh Otoritas Jasa Keuangan (OJK), dan fatwa DSN-MUI, yaitu efek atau surat berharga dan mekanisme perdagangan yang tidak bertentangan dengan prinsip syariah.
+
+Sebagai alat investasi, pasar modal syariah memliki keuntungan seperti, tidak melibatkan kegiatan perjudian, transaksi meragukan/ketidakjelasan, dan tidak mengandung riba yakni mensyaratkan kelebihan pengembalian berbentuk bunga. 
+
+Namun, pasar modal syariah pun memiliki risiko yang perlu diperhatikan, seperti penipuan produk investasi berlabel syariah padahal lembaga keuangan yang menawarkan produk tersebut tidak terdaftar sebagai lembaga keuangan syariah yang resmi.
+"}
+        },
+	{
+            "id": "6",
+            "order": "6",
+            "title": {"en":"Mutual Fund","id":"Reksa dana"},
+            "content" : {
+			"en":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+			"id":"Reksa dana ialah kumpulan dana dari berbagai investor yang dikelola oleh manajer investasi yang diinvestasikan dalam bentuk deposito, saham, dan obligasi, pasar uang, dan lainnya.
+
+Keuntungan menggunakan reksa dana ialah dapat dimulai investasi dari Rp. 100.000,00. Hasil investasi reksa dana tidak dikenakan pajak  dan investor dapat dicairkan kapan saja. 
+
+Namun, reksa dana memiliki risiko, seperti berkurangnya nilai unit penyertaan yang dipengaruhi oleh turunnya harga saham dan lainnya. Serta dapat terjadi risiko likuidasi, di mana manager investasi kesulitan menyediakan uang tunai atas penjualan kembali aset.
+"}
+        },
+    ]
+}
